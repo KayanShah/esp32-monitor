@@ -1,5 +1,7 @@
 # ESP32 Serial Monitor
 
+esp32-monitor-rho.vercel.app
+
 A browser-based serial monitor for ESP32 (and any USB serial device). No install required — just open the site, plug in your board, and click Connect.
 
 Built with the [Web Serial API](https://developer.chrome.com/docs/capabilities/serial) — works entirely in the browser, no backend needed.
